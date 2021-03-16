@@ -1,0 +1,8 @@
+Crar un proyecto gatsby con datocms.
+
+https://dashboard.datocms.com/projects/clone?repo=datocms/gatsby-blog-demo:main
+
+git clone https://github.com/fabiansato/datocms-gatsby-blog-demo.git
+
+https://gatsby-blog-demo-1493.admin.datocms.com/editor/item_types/602547/items
+
